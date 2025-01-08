@@ -64,6 +64,17 @@ Trigger the bash script "run.sh" after activating the virtual environment (conda
 ### Deep Learning Model Design
 ![Deep Learning Model Design](designs/DL_Model.png)
 
+## Predictions:
+
+#### Baseline Model Prediction
+![Baseline Model](all_images/vis/bl/measurements.png)
+
+#### Geometric Model Prediction
+![Geometric Model](all_images/vis/geo/all_transformations.png)
+
+#### DL Model Prediction
+![DL Model](all_images/vis/dl/landmarks.png)
+
 
 ## Perspective Correction:
 
